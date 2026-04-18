@@ -18,3 +18,7 @@ Thumbs.db
 
 # ChromaDB / vector storage (optional if regenerated)
 vectors/
+
+# Temporary uploads
+temp_uploads/
+backend/temp_uploads/
