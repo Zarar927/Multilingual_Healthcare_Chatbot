@@ -1,0 +1,20 @@
+# Virtual environments
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# ChromaDB / vector storage (optional if regenerated)
+vectors/
