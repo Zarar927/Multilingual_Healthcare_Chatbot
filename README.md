@@ -106,10 +106,6 @@ npm run dev
 | `/upload_prescription` | OCR prescription upload |
 | `/`                    | Health check            |
 
-## 📸 UI Mockup Prompt (Optional Frontend Image)
-
-> "Modern healthcare chatbot UI showing chat interface with multilingual support (Urdu and English), prescription upload button, medical AI responses, clean white and blue medical theme, mobile responsive design."
-
 ## 🚀 Recommended Improvements
 
 * Add authentication system 🔐
