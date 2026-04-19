@@ -28,11 +28,7 @@ This project combines multiple AI technologies:
 
 ## 🔄 Workflow Diagram
 
-**Image Prompt:**
-
-> "Flowchart diagram showing healthcare chatbot pipeline: User Input → Language Detection → Translation → Query Normalization → Vector DB Retrieval (ChromaDB) → Gemini LLM → Response Translation → Output. Include OCR branch for prescription image input leading to text extraction. Clean academic AI flowchart style."
-
-
+![image alt](git2.png)
 ## 📁 Project Structure
 
 Multilingual_Healthcare_Chatbot/
