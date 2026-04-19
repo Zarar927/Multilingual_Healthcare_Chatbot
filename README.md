@@ -47,10 +47,7 @@ Multilingual_Healthcare_Chatbot/
 ```
 
 ## 🧾 OCR Pipeline Example
-
-**Image Prompt:**
-
-> "Medical prescription OCR pipeline diagram showing image input → preprocessing (OpenCV) → text extraction (Tesseract OCR) → medicine name detection → dosage extraction → structured medical summary output. Clean labeled technical diagram."
+![image alt](git3.png)
 
 ## 🤖 Core Components
 
