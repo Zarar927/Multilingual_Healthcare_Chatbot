@@ -13,8 +13,21 @@ __pycache__/
 Thumbs.db
 .DS_Store
 
-# VS Code settings (optional)
+# VS Code
 .vscode/
 
-# ChromaDB / vector storage (optional if regenerated)
+# Vector DB / embeddings
 vectors/
+*.pkl
+*.bin
+*.pt
+
+# Uploads
+temp_uploads/
+backend/temp_uploads/
+
+# ❗ VERY IMPORTANT (ADD THIS)
+data/
+*.txt
+*.csv
+*.json
