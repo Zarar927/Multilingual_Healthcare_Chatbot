@@ -14,9 +14,7 @@ This project combines multiple AI technologies:
 
 ## 🖼️ System Architecture Diagram
 
-**Add this image prompt (for AI diagram generator / Canva / GPT image tool):**
-
-> "Professional system architecture diagram of a multilingual healthcare chatbot showing FastAPI backend, Next.js frontend, Gemini LLM, ChromaDB vector database, OCR module using Tesseract, NLP translation module, and RAG pipeline. Include arrows showing flow: user query → frontend → backend → language detection → RAG retrieval → LLM response → translation → user. Clean modern tech diagram style."
+![image alt](git1.png)
 
 ## ✨ Key Features
 
