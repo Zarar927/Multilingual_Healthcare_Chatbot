@@ -47,6 +47,7 @@ Multilingual_Healthcare_Chatbot/
 ```
 
 ## 🧾 OCR Pipeline Example
+
 ![image alt](git3.png)
 
 ## 🤖 Core Components
