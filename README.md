@@ -44,11 +44,11 @@ Multilingual_Healthcare_Chatbot/
 ├── vectors/          # ChromaDB storage
 ├── scripts/          # Utilities
 └── requirements.txt
-```
-
 ## 🧾 OCR Pipeline Example
 
 ![image alt](git3.png)
+
+```
 
 ## 🤖 Core Components
 
