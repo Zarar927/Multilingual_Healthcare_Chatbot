@@ -30,20 +30,7 @@ This project combines multiple AI technologies:
 
 ![image alt](git2.png)
 ## 📁 Project Structure
-
-Multilingual_Healthcare_Chatbot/
-├── backend/          # FastAPI server
-├── frontend/         # Next.js UI
-├── src/
-│   ├── llm/          # Gemini LLM pipeline
-│   ├── nlp/          # Translation & embeddings
-│   ├── ocr_module.py # Prescription OCR
-│   ├── rag_pipeline.py
-│   └── app.py
-├── data/             # Medical dataset
-├── vectors/          # ChromaDB storage
-├── scripts/          # Utilities
-└── requirements.txt
+![image alt](git5.png)
 ## 🧾 OCR Pipeline Example
 
 ![image alt](git3.png)
